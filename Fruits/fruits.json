@@ -1,0 +1,40 @@
+[
+  {
+    "type": "fruit",
+    "Name": "Banana",
+    "Color": "Yellow"
+  },
+  {
+    "type": "fruit",
+    "Name": "Apple",
+    "Color": "Red"
+  },
+  {
+    "type": "citrus",
+    "VitaminC": 0.053,
+    "Name": "Lemon",
+    "Color": "Yellow"
+  },
+  {
+    "type": "citrus",
+    "VitaminC": 0.059,
+    "Name": "Orange",
+    "Color": "Orange"
+  },
+  {
+    "type": "fruit",
+    "Name": "Pear",
+    "Color": "Yellow"
+  },
+  {
+    "type": "citrus",
+    "VitaminC": 0.029,
+    "Name": "Lime",
+    "Color": "Green"
+  },
+  {
+    "type": "fruit",
+    "Name": "Kiwi",
+    "Color": "Green"
+  }
+]

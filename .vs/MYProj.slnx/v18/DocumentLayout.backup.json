@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Programs\\Dev\\C#\\MYProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits\\Fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Citrus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits\\Citrus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Fruits.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits\\Fruits.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\FruitStorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits\\FruitStorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\CitrusTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits.Tests\\CitrusTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\FruitStorageTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits.Tests\\FruitStorageTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\FruitTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits.Tests\\FruitTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits.Tests\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\ProgramTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits.Tests\\ProgramTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\Fruits.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits.Tests\\Fruits.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\sorted_fruits.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits\\sorted_fruits.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\fruits.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits\\fruits.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\fruits.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruits\\fruits.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fruits.Tests.csproj",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\Fruits.Tests.csproj",
+              "RelativeDocumentMoniker": "Fruits.Tests\\Fruits.Tests.csproj",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\Fruits.Tests.csproj",
+              "RelativeToolTip": "Fruits.Tests\\Fruits.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-16T15:38:56.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "Fruits.Tests\\ProgramTests.cs",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\ProgramTests.cs",
+              "RelativeToolTip": "Fruits.Tests\\ProgramTests.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:46:00.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Fruits.Tests\\GlobalUsings.cs",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "Fruits.Tests\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:45:58.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FruitTests.cs",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\FruitTests.cs",
+              "RelativeDocumentMoniker": "Fruits.Tests\\FruitTests.cs",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\FruitTests.cs",
+              "RelativeToolTip": "Fruits.Tests\\FruitTests.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAIIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:45:56.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FruitStorageTests.cs",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\FruitStorageTests.cs",
+              "RelativeDocumentMoniker": "Fruits.Tests\\FruitStorageTests.cs",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\FruitStorageTests.cs",
+              "RelativeToolTip": "Fruits.Tests\\FruitStorageTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:45:53.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Program.cs",
+              "RelativeDocumentMoniker": "Fruits\\Program.cs",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Program.cs",
+              "RelativeToolTip": "Fruits\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwI8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:45:40.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FruitStorage.cs",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\FruitStorage.cs",
+              "RelativeDocumentMoniker": "Fruits\\FruitStorage.cs",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\FruitStorage.cs",
+              "RelativeToolTip": "Fruits\\FruitStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:45:37.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fruits.csproj",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Fruits.csproj",
+              "RelativeDocumentMoniker": "Fruits\\Fruits.csproj",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Fruits.csproj",
+              "RelativeToolTip": "Fruits\\Fruits.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-16T14:45:27.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CitrusTests.cs",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\CitrusTests.cs",
+              "RelativeDocumentMoniker": "Fruits.Tests\\CitrusTests.cs",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits.Tests\\CitrusTests.cs",
+              "RelativeToolTip": "Fruits.Tests\\CitrusTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:42:16.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fruits.json",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\fruits.json",
+              "RelativeDocumentMoniker": "Fruits\\fruits.json",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\fruits.json",
+              "RelativeToolTip": "Fruits\\fruits.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-16T14:42:12.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fruits.xml",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\fruits.xml",
+              "RelativeDocumentMoniker": "Fruits\\fruits.xml",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\fruits.xml",
+              "RelativeToolTip": "Fruits\\fruits.xml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-11-16T14:42:11.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "input.txt",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\input.txt",
+              "RelativeDocumentMoniker": "Fruits\\input.txt",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\input.txt",
+              "RelativeToolTip": "Fruits\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-16T14:42:10.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sorted_fruits.txt",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\sorted_fruits.txt",
+              "RelativeDocumentMoniker": "Fruits\\sorted_fruits.txt",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\sorted_fruits.txt",
+              "RelativeToolTip": "Fruits\\sorted_fruits.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-16T14:42:03.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Fruit.cs",
+              "RelativeDocumentMoniker": "Fruits\\Fruit.cs",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Fruit.cs",
+              "RelativeToolTip": "Fruits\\Fruit.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:40:10.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Citrus.cs",
+              "DocumentMoniker": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Citrus.cs",
+              "RelativeDocumentMoniker": "Fruits\\Citrus.cs",
+              "ToolTip": "H:\\Programs\\Dev\\C#\\MYProj\\Fruits\\Citrus.cs",
+              "RelativeToolTip": "Fruits\\Citrus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:40:09.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

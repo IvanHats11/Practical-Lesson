@@ -1,0 +1,30 @@
+H:\Programs\Dev\C#\MYProj\Fruits\bin\Debug\net8.0\input.txt
+H:\Programs\Dev\C#\MYProj\Fruits\bin\Debug\net8.0\Fruits.exe
+H:\Programs\Dev\C#\MYProj\Fruits\bin\Debug\net8.0\Fruits.deps.json
+H:\Programs\Dev\C#\MYProj\Fruits\bin\Debug\net8.0\Fruits.runtimeconfig.json
+H:\Programs\Dev\C#\MYProj\Fruits\bin\Debug\net8.0\Fruits.dll
+H:\Programs\Dev\C#\MYProj\Fruits\bin\Debug\net8.0\Fruits.pdb
+H:\Programs\Dev\C#\MYProj\Fruits\obj\Debug\net8.0\Fruits.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programs\Dev\C#\MYProj\Fruits\obj\Debug\net8.0\Fruits.AssemblyInfoInputs.cache
+H:\Programs\Dev\C#\MYProj\Fruits\obj\Debug\net8.0\Fruits.AssemblyInfo.cs
+H:\Programs\Dev\C#\MYProj\Fruits\obj\Debug\net8.0\Fruits.csproj.CoreCompileInputs.cache
+H:\Programs\Dev\C#\MYProj\Fruits\obj\Debug\net8.0\Fruits.dll
+H:\Programs\Dev\C#\MYProj\Fruits\obj\Debug\net8.0\refint\Fruits.dll
+H:\Programs\Dev\C#\MYProj\Fruits\obj\Debug\net8.0\Fruits.pdb
+H:\Programs\Dev\C#\MYProj\Fruits\obj\Debug\net8.0\Fruits.genruntimeconfig.cache
+H:\Programs\Dev\C#\MYProj\Fruits\obj\Debug\net8.0\ref\Fruits.dll
+H:\Programs\Dev\C#\Practical Lesson\Fruits\bin\Debug\net8.0\input.txt
+H:\Programs\Dev\C#\Practical Lesson\Fruits\bin\Debug\net8.0\Fruits.exe
+H:\Programs\Dev\C#\Practical Lesson\Fruits\bin\Debug\net8.0\Fruits.deps.json
+H:\Programs\Dev\C#\Practical Lesson\Fruits\bin\Debug\net8.0\Fruits.runtimeconfig.json
+H:\Programs\Dev\C#\Practical Lesson\Fruits\bin\Debug\net8.0\Fruits.dll
+H:\Programs\Dev\C#\Practical Lesson\Fruits\bin\Debug\net8.0\Fruits.pdb
+H:\Programs\Dev\C#\Practical Lesson\Fruits\obj\Debug\net8.0\Fruits.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programs\Dev\C#\Practical Lesson\Fruits\obj\Debug\net8.0\Fruits.AssemblyInfoInputs.cache
+H:\Programs\Dev\C#\Practical Lesson\Fruits\obj\Debug\net8.0\Fruits.AssemblyInfo.cs
+H:\Programs\Dev\C#\Practical Lesson\Fruits\obj\Debug\net8.0\Fruits.csproj.CoreCompileInputs.cache
+H:\Programs\Dev\C#\Practical Lesson\Fruits\obj\Debug\net8.0\Fruits.dll
+H:\Programs\Dev\C#\Practical Lesson\Fruits\obj\Debug\net8.0\refint\Fruits.dll
+H:\Programs\Dev\C#\Practical Lesson\Fruits\obj\Debug\net8.0\Fruits.pdb
+H:\Programs\Dev\C#\Practical Lesson\Fruits\obj\Debug\net8.0\Fruits.genruntimeconfig.cache
+H:\Programs\Dev\C#\Practical Lesson\Fruits\obj\Debug\net8.0\ref\Fruits.dll

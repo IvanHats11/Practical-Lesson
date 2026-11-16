@@ -1,0 +1,8 @@
+Fruit: Apple, color: Red
+Fruit: Banana, color: Yellow
+Fruit: Kiwi, color: Green
+Citrus: Lemon, color: Yellow, vitamin C: 0.053 g
+Citrus: Lemon, color: Yellow, vitamin C: 0.012 g
+Citrus: Lime, color: Green, vitamin C: 0.029 g
+Citrus: Orange, color: Orange, vitamin C: 0.059 g
+Fruit: Pear, color: Yellow

@@ -1,0 +1,7 @@
+Fruit
+Mango
+Yellow
+Citrus
+Grapefruit
+Pink
+0.031
